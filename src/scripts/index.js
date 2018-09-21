@@ -49,4 +49,10 @@ jQuery(document).ready(function ($) {
     $('.cover').on('click', function (e) {
         $(this).fadeOut();
     });
+
+    // Controls navar toggle to show navbar items when device is in mobile mode. 
+    
+    $('#nav-toggle').on('click', function(e){
+        $('#menu').toggleClass('menu-active');
+    })
 });

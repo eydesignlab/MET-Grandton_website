@@ -14,19 +14,17 @@
 ### Install
 
 ```bash
-npm install -g Inala
+npm install
 ```
 
 ### Use 
 
 ```bash
-yo Inala
+gulp
 ```
 
 # Author 
 
 Rokas - rokandroller@gmail.com
 
-# License 
 
-The code is available under the **MIT** license. 
